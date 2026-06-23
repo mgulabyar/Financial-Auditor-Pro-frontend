@@ -7,6 +7,7 @@ import { Button, Field, Textarea, tokens, makeStyles } from "@fluentui/react-com
 interface TextInsertionProps {
   insertText: (text: string) => void;
 }
+// working on the financial auditor project
 
 const useStyles = makeStyles({
   instructions: {
