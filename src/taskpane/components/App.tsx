@@ -180,7 +180,6 @@ const App: React.FC = () => {
                 ))}
               </Box>
 
-              {/* Anomalies */}
               {results.statistics.anomalies.length > 0 && (
                 <Box sx={{ mb: 2 }}>
                   {results.statistics.anomalies.map((a: any, i: number) => (
