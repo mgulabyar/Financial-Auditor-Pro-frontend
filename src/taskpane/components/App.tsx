@@ -219,12 +219,6 @@
 //                 </Typography>
 //               </Card>
 
-//               <Typography
-//                 variant="caption"
-//                 sx={{ mt: 3, display: "block", textAlign: "center", color: "#94a3b8" }}
-//               >
-//                 Report ID: {results.report_id}
-
 
 
 import React, { useState } from "react";
