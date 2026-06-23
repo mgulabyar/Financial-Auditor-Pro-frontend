@@ -63,7 +63,7 @@ const App: React.FC = () => {
 
   return (
     <Box sx={{ height: "100vh", bgcolor: "#f1f5f9", overflowY: "auto" }}>
-      {/* Header */}
+     
       <Paper elevation={0} sx={{ p: 2, bgcolor: "#0f172a", color: "white", borderRadius: 0, position:'sticky', top:0, zIndex: 1999}}>
         <Stack direction="row" spacing={1.5} alignItems="center">
           <Security sx={{ color: "#ef4444" }} />
