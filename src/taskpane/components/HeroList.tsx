@@ -10,7 +10,6 @@ export interface HeroListProps {
   message: string;
   items: HeroListItem[];
 }
-// it is bydefault file.
 const useStyles = makeStyles({
   list: {
     marginTop: "20px",
