@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "ES2020",
+    "module": "ES2020",
+    "moduleResolution": "bundler",
+    "rootDir": "./src",
+    "outDir": "dist",
+    "jsx": "react",
+    "lib": [
+      "ES2020",
+      "dom"
+    ],
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "noUnusedParameters": true,
+    "allowUnusedLabels": false,
+    "removeComments": false,
+    "sourceMap": true,
+    "pretty": true,
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "ignoreDeprecations": "6.0"
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ],
+  "compileOnSave": false,
+  "ts-node": { 
+    "compilerOptions": {
+      "module": "commonjs"
+    },
+    "files": true 
+  }
+}
