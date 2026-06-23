@@ -224,10 +224,6 @@
 //                 sx={{ mt: 3, display: "block", textAlign: "center", color: "#94a3b8" }}
 //               >
 //                 Report ID: {results.report_id}
-//               </Typography>
-//             </Box>
-//           </Fade>
-//         )}
 
 
 
