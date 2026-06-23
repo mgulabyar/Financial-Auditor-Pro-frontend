@@ -56,7 +56,6 @@ const App: React.FC = () => {
     setLoading(false);
   };
 
-  // Helper function to clean AI response from symbols
   const cleanSummary = (text: string) => {
     return text.replace(/[*#]/g, "").trim();
   };
