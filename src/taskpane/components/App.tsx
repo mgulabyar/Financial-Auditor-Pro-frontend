@@ -209,15 +209,7 @@
 //                 <Typography
 //                   variant="body2"
 //                   sx={{
-//                     fontSize: "0.85rem",
-//                     lineHeight: 1.8,
-//                     color: "#334155",
-//                     whiteSpace: "pre-wrap",
-//                   }}
-//                 >
-//                   {cleanSummary(results.ai_analysis)}
-//                 </Typography>
-//               </Card>
+
 
 
 
