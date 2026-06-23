@@ -194,7 +194,6 @@ const App: React.FC = () => {
                 </Box>
               )}
 
-              {/* AI Report Box - Cleaned Text */}
               <Card sx={{ p: 2, borderRadius: 3, border: "1px solid #e2e8f0" }}>
                 <Typography
                   variant="subtitle2"
